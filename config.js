@@ -50,21 +50,21 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281386943282', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true],
-['6281386943282', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true]
+['60177302593', 'Bang-Qyle', true],
+['60177302593', 'Bang-Qyle', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285715382503'
-global.nomorown = '6281386943282'
-global.nomorown1 = '6281386943282'
-global.nomorown2 = '6281386943282'
+global.nomorbot = '60177302593'
+global.nomorown = '60177302593'
+global.nomorown1 = '60177302593'
+global.nomorown2 = '60177302593'
 global.nomorwa = '0'
-global.nameown = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.nameown = 'Qyle'
 
 /*============== STAFF ==============*/
 /*global.owner = [
-  ['6281386943282', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true],
+  ['60177302593', 'Qyle', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -74,57 +74,80 @@ global.nameown = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.botintro = 'Hallo, Saya ZykoBotz-MD Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh zyko-md ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
-global.intro = 'https://telegra.ph/file/676bac7774d2785b7ee1e.jpg'
-global.author = 'Created By 𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.packname2 = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.media = 'https://telegra.ph/file/6db207196807bcf1ca1c5.jpg'
+global.gcname = 'Circle Qyle'
+global.botintro = 'Hallo, Saya BangQyle Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh Qyle ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.intro = 'https://telegra.ph/file/669a774dd1da0fde5afa3.jpg'
+global.author = 'Created By Qyle'
+global.namebot = 'BangQyle'
+global.packname2 = 'BangQyle'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Qyle'
+global.media = 'https://telegra.ph/file/669a774dd1da0fde5afa3.jpg'
 global.watermark = wm
 global.wame = 'https://wa.me/message/IT4R6JHOR74XP1'
-global.wm2 = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗 '
+global.wm2 = 'BangQyleBotz '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗`
-global.stickpack = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.stickauth = `© 𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗`
+global.titlebot = `QyleBotz`
+global.stickpack = 'QyleBotz'
+global.stickauth = `© BangQyle`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.nameown2 = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.nameown1= 'Qyle'
+global.nameown2 = 'Qyle Jugak'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.lynk = 'https://chat.whatsapp.com/J4ASESWmmzx0d0ovdrZo0Y'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/kabulsaputra21'
-global.tautanwa = 'https://wa.me/message/IT4R6JHOR74XP1'
+global.sig = 'https://instagram.com/jstme._____'
+global.tautanwa = 'https://wa.me/message/0177302593'
 global.sgh = 'https://github.com/ZykoBotz-MD' //github
-global.sgc = 'https://chat.whatsapp.com/F8JCtpCaSRFLmFf70TvF3R' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/J4ASESWmmzx0d0ovdrZo0Y
 global.sdc = '-' //discord
 global.syt = 'https://youtube.com/@zykobotz'
 global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://chat.whatsapp.com/F8JCtpCaSRFLmFf70TvF3R'
+global.snh = 'https://chat.whatsapp.com/0177302593'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085212649276'
-global.povo = '081386943282'
-global.pgopay = '085212649276'
+global.pdana = ''
+global.povo = ''
+global.pgopay = ''
 global.plinkaja = '-' //link aja
-global.ppulsa = '085212649276'
-global.ppulsa2 = '085212649276'
+global.ppulsa = ''
+global.ppulsa2 = ''
 global.psaweria = 'https://saweria.co/hyuura'
 global.donasikabul = 'Jasa Sewa ZykoBotz-MD\nhttps://lynk.id/kabul',
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
+global.ListHargaSewa = '𝖖𝖞𝖑𝖊𝖓𝖘𝖊𝖒𝖇𝖔𝖙𝖟
+ *• SEWA BOT & UP TO PREMIUM •*
+        
+╭─「 SEWABOT • 」
+│ • Maxis [ 0177302593 ] 
+│ • Umobile  [PM OWNER]
+│ • Celcom  [PM OWNER]
+│ • Digi  [PM OWNER]
+╰────
+╭─「 *BASIC PRICE* 」
+│ > 1 Minggu - RM 3:00 / 4 Group
+│ > 3 Minggu - RM 5:00 / 6 Group
+│ > Unlimited  - RM 11:00 / Unlimited Group
+│ 
+╰────
+╭─「 *PREMIUM PRICE* 」
+│ > 1 Minggu - RM 7:00 / 6 Group
+│ > 3 Minggu - RM 9:00 / 10 Group
+│ > Unlimited - RM 15:00 / Unlimited Group 
+│ 
+╰────
+wa.me/60177302593
+*Bukan Bot!!!*
+*Owner BangQyle*
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.LyAtas1 = '☰ ━━━ ❨'
 global.LyAtas2 = '❩ ━━┄┈ •⟅'
@@ -341,16 +364,16 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/kabulsaputra21"
+global.urlnya = "https://www.instagram.com/jstme._____"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '6281386943282'
+global.phn = 'gausah call'
 
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.fsizedoc = '99999999999999'
 global.fpagedoc = '999'
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/669a774dd1da0fde5afa3.jpg'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
